@@ -1,0 +1,6 @@
+.idea/*
+.mypy_cash/*
+.venv/*
+__pycash__/
+bot.log
+.env
